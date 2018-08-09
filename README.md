@@ -41,8 +41,6 @@ Obtains data related to **resource usage** using **Performance Counters** and **
 - Newtonsoft.Json
 - application icon from https://icons8.com/icon/set/detective/dusk
 
-### The project's documentation is available in docs folder but it is written in romanian.
-
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/40753750/43878894-1fe7286e-9baa-11e8-8204-77f855016f9b.png)
 ![image](https://user-images.githubusercontent.com/40753750/43878904-28647ef6-9baa-11e8-923b-1b5786f45251.png)
